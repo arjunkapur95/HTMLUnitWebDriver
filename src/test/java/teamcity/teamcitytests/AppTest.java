@@ -80,7 +80,7 @@ public class AppTest extends TestCase {
 		}
 
 	}
-	public void testPass() throws URISyntaxException {
+	public void testFail() throws URISyntaxException {
 		URI serverURL = null;
 
 		serverURL = new URI("https://www.tal.com.au/");
