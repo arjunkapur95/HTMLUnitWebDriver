@@ -1,4 +1,4 @@
 # JenkinsWebDriver
 Adding  new Readme
 DUM
-Teamcity Trigger
+Teamcity Triggeer
