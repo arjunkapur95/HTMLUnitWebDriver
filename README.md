@@ -1,2 +1,2 @@
 # JenkinsWebDriver
-Trigger ticket on Jira, buikd on Teamcity
+Trigger ticket on Jira, build on Teamcity from git commit
