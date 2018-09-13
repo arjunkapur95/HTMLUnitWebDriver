@@ -1,6 +1,2 @@
 # JenkinsWebDriver
-Adding  new Readme
-DUM
-Teamcity Triggeer
-dummy
-dummy
+Trigger ticket on Jira, buikd on Teamcity
